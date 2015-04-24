@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Awalsh128.Text", "Awalsh128.Text\Awalsh128.Text.csproj", "{D6C45935-6A62-47AA-989F-9C0B2915B0F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Awalsh128.Text.Tests", "Awalsh128.Text.Tests\Awalsh128.Text.Tests.csproj", "{F43FACC7-B7FD-4992-AD97-D0373C9EF59F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6C45935-6A62-47AA-989F-9C0B2915B0F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C45935-6A62-47AA-989F-9C0B2915B0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C45935-6A62-47AA-989F-9C0B2915B0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C45935-6A62-47AA-989F-9C0B2915B0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43FACC7-B7FD-4992-AD97-D0373C9EF59F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43FACC7-B7FD-4992-AD97-D0373C9EF59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43FACC7-B7FD-4992-AD97-D0373C9EF59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43FACC7-B7FD-4992-AD97-D0373C9EF59F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
