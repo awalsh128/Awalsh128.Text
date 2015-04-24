@@ -16,7 +16,7 @@ using (var decodeStream = new UUDecodeStream(encodedStream))
 
 To encode any stream:
 ```csharp
-bool unixLineEnding = /* True if encoding with Unix line endings, otherwise false.
+bool unixLineEnding = // True if encoding with Unix line endings, otherwise false.
 using (Stream encodedStream = /* Any readable stream. */)
 using (Stream decodedStream = /* Any writeable stream. */)
 using (var encodeStream = new UUEncodeStream(encodedStream, unixLineEnding))
